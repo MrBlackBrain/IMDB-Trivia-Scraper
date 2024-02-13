@@ -1,4 +1,4 @@
-# IMDb Trivia Scraper
+# IMDB Trivia Scraper
 
 This Python project scrapes movie titles and IDs from IMDb's fan favorites page and then retrieves trivia for each movie using Selenium and BeautifulSoup. It saves the movie information to a CSV file.
 
